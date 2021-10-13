@@ -3,7 +3,7 @@ The code used in the proof of concept titled: A comparative approach to quantify
 
 Step 1: Generate 1000 random theoretical networks each with 100 nodes, using the Erdős–Rényi model. 
 
-Step 2: Calculate the modularity of each theoretical network using the modualrity function of igraph. 
+Step 2: Calculate the modularity of each theoretical network using the modualrity function in the igraph package. 
 
 Step 3: Calculate the Probability Hieararchy Core (PHS) for each theoretical network. To get a single metric value: the PHS is calculated for n/2 levels. A linear regression model is run for each level iteration (PHS value vs number of levels) and the AIC was calculated to single our the optimum PHS value. 
 
@@ -13,7 +13,7 @@ Step 4: The residuals are then corrected for differences in magnitude. The resid
 
 Step 5: Plot the theoretical results to construct the heterarchy matrix. 
 
-Step 6: Inport real-world data from a range of repositories and calculate the network modularity using the modualrity function in igraph. 
+Step 6: Inport real-world data from a range of repositories and calculate the network modularity using the modualrity function in the igraph package. 
 
 Step 7: Calculate the PHS for the real-world network. To get a single metric value: the PHS is calculated for n/2 levels. A linear regression model is run for each level iteration (PHS value vs number of levels) and the AIC was calculated to single our the optimum PHS value. 
 
