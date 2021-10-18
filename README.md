@@ -1,6 +1,20 @@
 # Shurety-et-al.-Heterarchy-Code
 The code used in the proof of concept titled: A comparative approach to quantify the heterarchical structures of complex systems.
 
+Corresponding Author: 
+Amy L. Shurety 
+ARC Centre of Excellence for Coral Reef Studies, James Cook University, Townsville, QLD 4811 Australia
+
+Co-Authors: 
+Örjan Bodin
+Stockholm Resilience Centre, Stockholm University, 106 91 Stockholm, Sweden
+
+Graeme S. Cumming 
+ARC Centre of Excellence for Coral Reef Studies, James Cook University, Townsville, QLD 4811 Australia
+
+The work flow was conducted in R Software (R Core Team 2013), R version 3.6.1 (2019-07-05) and was created on the 16/09/2021.
+
+Methodology Overview: 
 Step 1: Generate 1000 random theoretical networks each with 100 nodes, using the Erdős–Rényi model. 
 
 Step 2: Calculate the modularity of each theoretical network using the modualrity function in the igraph package. 
