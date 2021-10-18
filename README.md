@@ -1,19 +1,19 @@
 # Shurety-et-al.-Heterarchy-Code
-The code used in the proof of concept titled: A comparative approach to quantify the heterarchical structures of complex systems.
+**The code used in the proof of concept titled: A comparative approach to quantify the heterarchical structures of complex systems.**
 
 **Corresponding Author:**
 
-Amy L. Shurety 
+1. Amy L. Shurety 
 
 ARC Centre of Excellence for Coral Reef Studies, James Cook University, Townsville, QLD 4811 Australia
 
 **Co-Authors:**
 
-Örjan Bodin
+2. Örjan Bodin
 
 Stockholm Resilience Centre, Stockholm University, 106 91 Stockholm, Sweden
 
-Graeme S. Cumming 
+3. Graeme S. Cumming 
 
 ARC Centre of Excellence for Coral Reef Studies, James Cook University, Townsville, QLD 4811 Australia
 
